@@ -1,0 +1,2 @@
+# ClanBot
+Bot for PlugDJ
